@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "830973326091",
+    "firebase_url": "https://anantha-847e7-default-rtdb.firebaseio.com",
+    "project_id": "anantha-847e7",
+    "storage_bucket": "anantha-847e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830973326091:android:f8fa1a78906fbf2f60680e",
+        "android_client_info": {
+          "package_name": "com.example.Anantha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830973326091-o82am5h0tnm0n51dutu8qabb67gnth5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNFKishuQv8IMBf9u3t9eubDp87sfzTwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830973326091-o82am5h0tnm0n51dutu8qabb67gnth5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1581282519029904~7431798424"
+    }
+  ],
+  "configuration_version": "1"
+}
