@@ -1,4 +1,4 @@
-# Anantha
+# Android Application for recording, listening and uploading audio files to firebase
 
 A new Flutter project.
 
