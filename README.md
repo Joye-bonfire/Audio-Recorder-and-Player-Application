@@ -1,6 +1,6 @@
 # Android Application for recording, listening and uploading audio files to firebase
 
-A new Flutter project.
+The following project is an android application which uses firebase for authentication and can record audio in different formats upload it to firebase and can later be streamed from firebase.
 
 ## Getting Started
 
